@@ -1,0 +1,23 @@
+.nav-container {
+    background-color: rgb(14, 12, 10);
+
+}
+.nav-container p{
+font-size: 25px;
+color: white;
+margin-top: 3px;
+}
+.nav-items{
+    margin-top: 15px;
+}
+.nav-items a{
+text-decoration: none;
+padding: 8px 12px;
+color: white;
+margin: 5px;
+
+border-radius: 8px;
+}
+.nav-items a:hover{
+    background-color: rgb(238, 192, 107);
+}
